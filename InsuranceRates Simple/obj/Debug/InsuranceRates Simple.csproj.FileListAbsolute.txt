@@ -1,0 +1,6 @@
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\InsuranceRates Simple\InsuranceRates Simple\bin\Debug\InsuranceRates Simple.exe.config
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\InsuranceRates Simple\InsuranceRates Simple\obj\Debug\InsuranceRates Simple.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\InsuranceRates Simple\InsuranceRates Simple\bin\Debug\InsuranceRates Simple.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\InsuranceRates Simple\InsuranceRates Simple\bin\Debug\InsuranceRates Simple.pdb
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\InsuranceRates Simple\InsuranceRates Simple\obj\Debug\InsuranceRates Simple.exe
+C:\Users\Jon\Desktop\CS 1030\Programming Assignments\InsuranceRates Simple\InsuranceRates Simple\obj\Debug\InsuranceRates Simple.pdb
